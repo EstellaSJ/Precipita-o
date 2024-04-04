@@ -5,7 +5,6 @@
 !pip install gsw
 !pip install webcolors
 
-from rotinas_omarsat import *
 import pandas as pd
 import netCDF4 as nc
 import xarray as xr
